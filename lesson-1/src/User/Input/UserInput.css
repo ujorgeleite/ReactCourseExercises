@@ -1,0 +1,13 @@
+input {
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border-style: none
+}
+
+input:hover {
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: red;
+}
